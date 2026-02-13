@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Sachin Tendulkar",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 463,
+    "runs": 18426,
+    "average": 44.83,
+    "strike_rate": 86.23
+  },
+  {
+    "name": "Ricky Ponting",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 375,
+    "runs": 13704,
+    "average": 42.03,
+    "strike_rate": 80.39
+  },
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 292,
+    "runs": 13848,
+    "average": 58.67,
+    "strike_rate": 93.62
+  },
+  {
+    "name": "Brian Lara",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 299,
+    "runs": 10405,
+    "average": 40.48,
+    "strike_rate": 79.51
+  },
+  {
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 404,
+    "runs": 14234,
+    "average": 41.98,
+    "strike_rate": 78.86
+  },
+  {
+    "name": "Sanath Jayasuriya",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 445,
+    "runs": 13430,
+    "average": 32.36,
+    "strike_rate": 91.20
+  },
+  {
+    "name": "Inzamam-ul-Haq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 378,
+    "runs": 11739,
+    "average": 39.52,
+    "strike_rate": 74.24
+  },
+  {
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 228,
+    "runs": 9577,
+    "average": 53.50,
+    "strike_rate": 101.09
+  },
+  {
+    "name": "Sourav Ganguly",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 311,
+    "runs": 11363,
+    "average": 41.02,
+    "strike_rate": 73.70
+  },
+  {
+    "name": "Rahul Dravid",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 344,
+    "runs": 10889,
+    "average": 39.16,
+    "strike_rate": 71.24
+  },
+  {
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 301,
+    "runs": 10480,
+    "average": 37.83,
+    "strike_rate": 87.19
+  },
+  {
+    "name": "Tillakaratne Dilshan",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 330,
+    "runs": 10290,
+    "average": 39.27,
+    "strike_rate": 86.23
+  },
+  {
+    "name": "Mahela Jayawardene",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 448,
+    "runs": 12650,
+    "average": 33.37,
+    "strike_rate": 78.96
+  },
+  {
+    "name": "Adam Gilchrist",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 287,
+    "runs": 9619,
+    "average": 35.89,
+    "strike_rate": 96.94
+  },
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 262,
+    "runs": 10709,
+    "average": 49.12,
+    "strike_rate": 91.97
+  },
+  {
+    "name": "Desmond Haynes",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 238,
+    "runs": 8648,
+    "average": 41.37,
+    "strike_rate": 63.09
+  },
+  {
+    "name": "Saeed Anwar",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 247,
+    "runs": 8824,
+    "average": 39.21,
+    "strike_rate": 80.67
+  },
+  {
+    "name": "Shivnarine Chanderpaul",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 268,
+    "runs": 8778,
+    "average": 41.60,
+    "strike_rate": 70.74
+  },
+  {
+    "name": "Virender Sehwag",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 251,
+    "runs": 8273,
+    "average": 35.05,
+    "strike_rate": 104.33
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 161,
+    "runs": 6554,
+    "average": 47.83,
+    "strike_rate": 81.78
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 145,
+    "runs": 4939,
+    "average": 41.85,
+    "strike_rate": 88.50
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 158,
+    "runs": 6207,
+    "average": 50.05,
+    "strike_rate": 86.90
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 108,
+    "runs": 5409,
+    "average": 56.93,
+    "strike_rate": 89.10
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 150,
+    "runs": 6397,
+    "average": 45.36,
+    "strike_rate": 96.40
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 167,
+    "runs": 6793,
+    "average": 44.11,
+    "strike_rate": 91.35
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 145,
+    "runs": 6176,
+    "average": 44.75,
+    "strike_rate": 96.60
+  },
+  {
+    "name": "Martin Guptill",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 198,
+    "runs": 7346,
+    "average": 41.73,
+    "strike_rate": 87.70
+  },
+  {
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 143,
+    "runs": 5507,
+    "average": 47.47,
+    "strike_rate": 88.60
+  },
+  {
+    "name": "Ross Taylor",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 236,
+    "runs": 8607,
+    "average": 47.55,
+    "strike_rate": 83.30
+  },
+  {
+    "name": "Hashim Amla",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 181,
+    "runs": 8113,
+    "average": 49.46,
+    "strike_rate": 88.39
+  },
+  {
+    "name": "Eoin Morgan",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 248,
+    "runs": 7701,
+    "average": 39.29,
+    "strike_rate": 91.16
+  },
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 243,
+    "runs": 8357,
+    "average": 36.65,
+    "strike_rate": 78.50
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 255,
+    "runs": 7388,
+    "average": 37.12,
+    "strike_rate": 79.70
+  },
+  {
+    "name": "Brendon McCullum",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 260,
+    "runs": 6083,
+    "average": 30.41,
+    "strike_rate": 96.37
+  },
+  {
+    "name": "Michael Clarke",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 245,
+    "runs": 7981,
+    "average": 44.58,
+    "strike_rate": 78.98
+  },
+  {
+    "name": "Misbah-ul-Haq",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 162,
+    "runs": 5122,
+    "average": 43.40,
+    "strike_rate": 73.75
+  },
+  {
+    "name": "Younis Khan",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 265,
+    "runs": 7249,
+    "average": 31.24,
+    "strike_rate": 75.29
+  },
+  {
+    "name": "Mohammad Yousuf",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 288,
+    "runs": 9720,
+    "average": 41.71,
+    "strike_rate": 75.10
+  },
+  {
+    "name": "Gautam Gambhir",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 147,
+    "runs": 5238,
+    "average": 39.68,
+    "strike_rate": 85.25
+  },
+  {
+    "name": "Yuvraj Singh",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 304,
+    "runs": 8701,
+    "average": 36.55,
+    "strike_rate": 87.67
+  },
+  {
+    "name": "Suresh Raina",
+    "country": "India",
+    "role": "Batsman",
+    "matches": 226,
+    "runs": 5615,
+    "average": 35.31,
+    "strike_rate": 93.50
+  },
+  {
+    "name": "Mike Hussey",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 185,
+    "runs": 5442,
+    "average": 48.15,
+    "strike_rate": 87.16
+  },
+  {
+    "name": "Matthew Hayden",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 161,
+    "runs": 6133,
+    "average": 43.80,
+    "strike_rate": 78.96
+  },
+  {
+    "name": "Damien Martyn",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 208,
+    "runs": 5346,
+    "average": 40.80,
+    "strike_rate": 77.73
+  },
+  {
+    "name": "Andrew Symonds",
+    "country": "Australia",
+    "role": "Batsman",
+    "matches": 198,
+    "runs": 5088,
+    "average": 39.75,
+    "strike_rate": 92.44
+  },
+  {
+    "name": "Kevin Pietersen",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 136,
+    "runs": 4440,
+    "average": 40.73,
+    "strike_rate": 86.58
+  },
+  {
+    "name": "Ian Bell",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 161,
+    "runs": 5416,
+    "average": 37.87,
+    "strike_rate": 77.16
+  },
+  {
+    "name": "Alastair Cook",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 92,
+    "runs": 3204,
+    "average": 36.40,
+    "strike_rate": 77.13
+  },
+  {
+    "name": "Graeme Smith",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 197,
+    "runs": 6989,
+    "average": 37.98,
+    "strike_rate": 80.81
+  },
+  {
+    "name": "Herschelle Gibbs",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 248,
+    "runs": 8094,
+    "average": 36.13,
+    "strike_rate": 83.26
+  },
+  {
+    "name": "Gary Kirsten",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 185,
+    "runs": 6798,
+    "average": 40.95,
+    "strike_rate": 72.04
+  },
+  {
+    "name": "Jonty Rhodes",
+    "country": "South Africa",
+    "role": "Batsman",
+    "matches": 245,
+    "runs": 5935,
+    "average": 35.11,
+    "strike_rate": 80.90
+  },
+  {
+    "name": "Ramnaresh Sarwan",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 181,
+    "runs": 5804,
+    "average": 42.67,
+    "strike_rate": 75.74
+  },
+  {
+    "name": "Marlon Samuels",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 207,
+    "runs": 5606,
+    "average": 32.97,
+    "strike_rate": 75.08
+  },
+  {
+    "name": "Gordon Greenidge",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 128,
+    "runs": 5134,
+    "average": 45.03,
+    "strike_rate": 64.92
+  },
+  {
+    "name": "Richie Richardson",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 224,
+    "runs": 6248,
+    "average": 33.41,
+    "strike_rate": 63.74
+  },
+  {
+    "name": "Viv Richards",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 187,
+    "runs": 6721,
+    "average": 47.00,
+    "strike_rate": 90.20
+  },
+  {
+    "name": "Clive Lloyd",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 87,
+    "runs": 1977,
+    "average": 27.35,
+    "strike_rate": 81.22
+  },
+  {
+    "name": "Stephen Fleming",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 280,
+    "runs": 8037,
+    "average": 32.40,
+    "strike_rate": 71.49
+  },
+  {
+    "name": "Nathan Astle",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 223,
+    "runs": 7090,
+    "average": 34.92,
+    "strike_rate": 72.64
+  },
+  {
+    "name": "Craig McMillan",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "matches": 197,
+    "runs": 4707,
+    "average": 28.18,
+    "strike_rate": 84.88
+  },
+  {
+    "name": "Marvan Atapattu",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 268,
+    "runs": 8529,
+    "average": 37.57,
+    "strike_rate": 67.72
+  },
+  {
+    "name": "Aravinda de Silva",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 308,
+    "runs": 9284,
+    "average": 34.90,
+    "strike_rate": 81.13
+  },
+  {
+    "name": "Arjuna Ranatunga",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 269,
+    "runs": 7456,
+    "average": 35.84,
+    "strike_rate": 77.90
+  },
+  {
+    "name": "Roshan Mahanama",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 213,
+    "runs": 5162,
+    "average": 29.49,
+    "strike_rate": 60.54
+  },
+  {
+    "name": "Upul Tharanga",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "matches": 235,
+    "runs": 6951,
+    "average": 33.74,
+    "strike_rate": 75.03
+  },
+  {
+    "name": "Javed Miandad",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 233,
+    "runs": 7381,
+    "average": 41.70,
+    "strike_rate": 67.01
+  },
+  {
+    "name": "Saleem Malik",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 283,
+    "runs": 7170,
+    "average": 32.88,
+    "strike_rate": 76.41
+  },
+  {
+    "name": "Ijaz Ahmed",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 250,
+    "runs": 6564,
+    "average": 32.33,
+    "strike_rate": 80.30
+  },
+  {
+    "name": "Shoaib Malik",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 287,
+    "runs": 7534,
+    "average": 34.55,
+    "strike_rate": 81.90
+  },
+  {
+    "name": "Mohammad Hafeez",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "matches": 218,
+    "runs": 6614,
+    "average": 32.90,
+    "strike_rate": 76.61
+  },
+  {
+    "name": "Grant Flower",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 221,
+    "runs": 6571,
+    "average": 33.52,
+    "strike_rate": 67.58
+  },
+  {
+    "name": "Andy Flower",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 213,
+    "runs": 6786,
+    "average": 35.34,
+    "strike_rate": 74.59
+  },
+  {
+    "name": "Alistair Campbell",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 188,
+    "runs": 5185,
+    "average": 30.50,
+    "strike_rate": 66.18
+  },
+  {
+    "name": "Brendan Taylor",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 205,
+    "runs": 6684,
+    "average": 35.55,
+    "strike_rate": 76.53
+  },
+  {
+    "name": "Hamilton Masakadza",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 209,
+    "runs": 5658,
+    "average": 27.73,
+    "strike_rate": 73.18
+  },
+  {
+    "name": "Tatenda Taibu",
+    "country": "Zimbabwe",
+    "role": "Batsman",
+    "matches": 150,
+    "runs": 3393,
+    "average": 29.25,
+    "strike_rate": 67.88
+  },
+  {
+    "name": "Mohammad Ashraful",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 177,
+    "runs": 3468,
+    "average": 22.23,
+    "strike_rate": 70.13
+  },
+  {
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 218,
+    "runs": 4950,
+    "average": 35.35,
+    "strike_rate": 76.17
+  },
+  {
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 70,
+    "runs": 2121,
+    "average": 34.20,
+    "strike_rate": 88.37
+  },
+  {
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "matches": 66,
+    "runs": 1768,
+    "average": 32.14,
+    "strike_rate": 97.46
+  },
+  {
+    "name": "William Porterfield",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 148,
+    "runs": 4343,
+    "average": 30.58,
+    "strike_rate": 69.48
+  },
+  {
+    "name": "Paul Stirling",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 145,
+    "runs": 5306,
+    "average": 38.44,
+    "strike_rate": 86.84
+  },
+  {
+    "name": "Kevin O'Brien",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 153,
+    "runs": 3619,
+    "average": 29.42,
+    "strike_rate": 88.78
+  },
+  {
+    "name": "Niall O'Brien",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 103,
+    "runs": 2581,
+    "average": 28.05,
+    "strike_rate": 70.57
+  },
+  {
+    "name": "Ed Joyce",
+    "country": "Ireland",
+    "role": "Batsman",
+    "matches": 78,
+    "runs": 2622,
+    "average": 38.00,
+    "strike_rate": 75.34
+  },
+  {
+    "name": "Ryan ten Doeschate",
+    "country": "Netherlands",
+    "role": "Batsman",
+    "matches": 33,
+    "runs": 1541,
+    "average": 67.00,
+    "strike_rate": 87.68
+  },
+  {
+    "name": "Kyle Coetzer",
+    "country": "Scotland",
+    "role": "Batsman",
+    "matches": 82,
+    "runs": 3004,
+    "average": 39.52,
+    "strike_rate": 81.65
+  },
+  {
+    "name": "Calum MacLeod",
+    "country": "Scotland",
+    "role": "Batsman",
+    "matches": 88,
+    "runs": 3026,
+    "average": 38.30,
+    "strike_rate": 80.60
+  },
+  {
+    "name": "Richie Berrington",
+    "country": "Scotland",
+    "role": "Batsman",
+    "matches": 102,
+    "runs": 2640,
+    "average": 30.34,
+    "strike_rate": 79.25
+  },
+  {
+    "name": "Mohammad Shahzad",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 84,
+    "runs": 2727,
+    "average": 33.66,
+    "strike_rate": 88.48
+  },
+  {
+    "name": "Rahmat Shah",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 92,
+    "runs": 3195,
+    "average": 37.15,
+    "strike_rate": 70.81
+  },
+  {
+    "name": "Asghar Afghan",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 114,
+    "runs": 2424,
+    "average": 24.73,
+    "strike_rate": 66.77
+  },
+  {
+    "name": "Hashmatullah Shahidi",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 60,
+    "runs": 1650,
+    "average": 32.35,
+    "strike_rate": 66.39
+  },
+  {
+    "name": "Najibullah Zadran",
+    "country": "Afghanistan",
+    "role": "Batsman",
+    "matches": 83,
+    "runs": 2013,
+    "average": 30.50,
+    "strike_rate": 89.15
+  },
+  {
+    "name": "Shai Hope",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 110,
+    "runs": 4488,
+    "average": 49.31,
+    "strike_rate": 75.55
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 47,
+    "runs": 1447,
+    "average": 35.29,
+    "strike_rate": 106.39
+  },
+  {
+    "name": "Nicholas Pooran",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 55,
+    "runs": 1672,
+    "average": 38.88,
+    "strike_rate": 97.26
+  },
+  {
+    "name": "Evin Lewis",
+    "country": "West Indies",
+    "role": "Batsman",
+    "matches": 57,
+    "runs": 1847,
+    "average": 36.94,
+    "strike_rate": 83.27
+  },
+  {
+    "name": "Jason Roy",
+    "country": "England",
+    "role": "Batsman",
+    "matches": 116,
+    "runs": 4271,
+    "average": 39.91,
+    "strike_rate": 105.53
+  }
+]
