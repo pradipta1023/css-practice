@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#main-heading {
+  height: 50px;
+  width: 30%;
+  font-weight: 600;
+  font-size: 48px;
+  margin: 0 auto;
+  background-color: turquoise;
+  text-align: center;
+}
+
+.cards {
+  margin: 10px 20px;
+  height: 600px;
+  width: 98%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: space-evenly;
+}
+
+.card {
+  height: 450px;
+  width: 20%;
+  background-color: rgb(255, 253, 249);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 5px 0px;
+}
+
+.card > p {
+  width: 65%;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+.card img {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.cart {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 10px;
+}
+
+.card button {
+  padding: 0.5em;
+  border: 1px solid black;
+  border-radius: 3px;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+#add-cart {
+  background-color: rgb(172, 241, 241);
+}
+
+#buy {
+  background-color: gold;
+  color: black;
+}

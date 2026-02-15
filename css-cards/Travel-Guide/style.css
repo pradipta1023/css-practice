@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(30, 29, 37);
+}
+
+.cards {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px 15px;
+}
+
+.card {
+  height: 460px;
+  width: 20%;
+  background-color: rgb(233, 212, 212);
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: normal;
+  transition: 0.7s;
+}
+
+.card:hover {
+  height: 480px;
+  width: 21%;
+  transition: 0.7s;
+  background-color: rgb(239, 179, 179);
+}
+
+.card img {
+  border-radius: 10px 10px 0 0 ;
+  width: 90%;
+}
+
+.card p{
+  margin: auto;
+  width: 83%;
+  font-size: 15px;
+}
+
+.card h3 {
+  margin-right: 2%;
+}
+
+.card button {
+  width: 35%;
+  padding: 0.8em;
+  border-radius: 20px;
+  border: none;
+}
+
+#south {
+  background: linear-gradient(pink,red);
+}
+
+#north {
+  background: linear-gradient(blue, pink);
+}
+
+#east {
+  background: linear-gradient(white, rgb(137, 152, 250));
+}
+
+#west {
+  background: linear-gradient(blue, rgb(132, 242, 132));
+}
+
+#shimla {
+  background: linear-gradient(gold,  rgb(224, 224, 241));
+}
+
+#sangla {
+  background: linear-gradient(white, rgb(109, 94, 90));
+}
+
+#kinnaur {
+  background: linear-gradient(gray, white);
+}
+
+#spiti {
+  background: linear-gradient(rgb(166, 166, 236), white);
+}
